@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+main {
+  width: 50%;
+  margin: 4rem auto;
+}
+
+.submit-btn {
+  margin-left: 350px;
+}
+
+input {
+  outline: black;
+}
+
+label {
+  font-weight: bolder;
+}
+
+.title {
+  margin: 2rem auto;
+  text-align: center;
+}
+
+.blue {
+  color: #0B67C2;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+}
+
+h3 {
+  margin-right: 23rem;
+}
+
+.link{
+  text-decoration: none;
+}
+
+.app-btn{
+  margin-left : 40px;
+}
